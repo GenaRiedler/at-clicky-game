@@ -1,0 +1,10 @@
+.nav {
+    color: white;
+}
+.nav>ul>li {
+    padding: 0 15px 0 15px;
+}
+
+.right-wrong {
+    font-family: 'Jua', sans-serif;
+}

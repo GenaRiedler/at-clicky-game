@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url("/images/landofooo.jpg") no-repeat 50% 50%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    max-width: 100%;
+    min-height: 350px;
+}
+
+h1 {
+    font-family: 'Jua', sans-serif;
+    font-size: 100px;
+}

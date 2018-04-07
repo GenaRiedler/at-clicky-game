@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Finn",
+        "image": "./images/finn.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Jake",
+        "image": "./images/jake.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Marceline",
+        "image": "./images/marceline.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Princess Bubblegum",
+        "image": "./images/pb.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Lumpy Space Princess",
+        "image": "./images/lsp.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Ice King",
+        "image": "./images/iceking.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Flame Princess",
+        "image": "./images/flameprincess.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "BMO",
+        "image": "./images/bmo.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Peppermint Butler",
+        "image": "./images/peps.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Fiona",
+        "image": "./images/fionna.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Cake",
+        "image": "./images/cake.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Lemongrab",
+        "image": "./images/lemongrab.png",
+        "clicked": false
+    }
+]
